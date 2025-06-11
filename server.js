@@ -16,6 +16,8 @@ let users = [
     { name: "virat", email: "virat@gmail.com" },
     { name: "dhoni", email: "dhoni@gmail.com" },
     { name: "deepak", email: "deepak@gmail.com" },
+    { name: "raj", email: "raj@gmail.com" },
+    { name: "nikesh", email: "niku@gmail.com" },
      { name: "aman", email: "aman@gmail.com" },
 
 ];
